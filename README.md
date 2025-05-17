@@ -23,3 +23,4 @@ A full-stack Task Management application built with the MERN stack (MongoDB, Exp
 
 
 
+<img width="1470" alt="Screenshot 2025-05-17 at 1 26 43 PM" src="https://github.com/user-attachments/assets/0edf715f-10c8-4879-8b27-55915e5763f7" />
