@@ -2,19 +2,15 @@
     "version": 2,
     "name": "task-manager-backend",
     "builds": [
-        {
-            "src": "server.js",
-            "use": "@vercel/node"
-        }
+      {
+        "src": "server.js",
+        "use": "@vercel/node"
+      }
     ],
     "routes": [
-        {
-            "src": "/api/(.*)",
-            "dest": "server.js"
-        }
-    ],
-    "env": {
-        "MONGODB_URI": "mongodb+srv://arpitbabu802:AdJhBSl6iTiCPyvg@cluster0.6trhdxr.mongodb.net/TASKMANAGER",
-        "JWT_SECRET": "your-secret-key-here"
-    }
-} 
+      {
+        "src": "/(.*)",
+        "dest": "server.js"
+      }
+    ]
+  }

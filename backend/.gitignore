@@ -49,3 +49,5 @@ Thumbs.db
 
 # Vercel
 .vercel/
+
+backend/firebase-admin.json
