@@ -17,6 +17,9 @@ A full-stack Task Management application built with the MERN stack (MongoDB, Exp
 - Authentication: Firebase Google OAuth (optional)
 
 ## Screenshots
+<img width="1470" alt="Screenshot 2025-05-17 at 11 28 38 AM" src="https://github.com/user-attachments/assets/bc1eaeb8-c79a-4cdf-bd4d-fb1f18bee8a1" />
 
-![Screenshot 1](https://github.com/YourUsername/YourRepoName/raw/main/assets/screenshot1.png)
-![Screenshot 2](https://github.com/YourUsername/YourRepoName/raw/main/assets/screenshot2.png)
+<img width="1470" alt="Screenshot 2025-05-17 at 11 28 47 AM" src="https://github.com/user-attachments/assets/dd765c27-c574-4275-a7a3-b563590d8472" />
+
+
+
